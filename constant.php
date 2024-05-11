@@ -11,4 +11,4 @@
 
     // Notes: To define a immutable variable in php
     // we can use function called define(), that 
-    // make our variable dataType cannot be changed.
+    // make our variable data type cannot be changed.
