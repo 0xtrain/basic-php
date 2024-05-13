@@ -42,7 +42,7 @@
     // print_r($foods);
 
     // Overwrite associative arrays (key & value pairs)
-    // $foods['Japan'] = 'korokke pan';
+    // $foods['Japan'] = 'Korokke pan';
     // print_r($foods);
 
     // To count Associative arrays (key & value pairs)
